@@ -54,9 +54,9 @@ class Herbs(Plant):
         return f"{self.plant_name} is making food through photosynthesis and producing medicinal compounds"
 
 class Vines(Plant):
-    def __init__(self, plant_name: str, height: float, age: int, fragrance: str):
+    def __init__(self, plant_name: str, height: float, age: int, vine_class: str):
         super().__init__(plant_name, height, age)
-        self.fragrance = fragrance
+        self.vine_class = vine_class
     
     def grow(self) -> str:
         self.height += 1.5
@@ -83,7 +83,7 @@ if __name__ == "__main__":
     rose = Flower("Rose", 30.0, 1, "Red")
     oak = Tree("Oak", 5.0, 10, "Deciduous")
     basil = Herbs("Basil", 20.0, 1, "Sweet & Pungent")
-    grape = Vines("Grape", 2.0, 3, "Sweet and Fruity")
+    grape = Vines("Grape", 2.0, 3, "Tendrils")
     wheat = Poaceae("Wheat", 1.0, 1, "Cereal")
     
     print("\nTesting Flower:")
