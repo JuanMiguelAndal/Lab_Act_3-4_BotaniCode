@@ -7,7 +7,7 @@
 1. Boo, Vianci Mariz G.
 1. Oreste, Elijah Emmanuel O.
 
-## :sunflower: **_PROGRAM DESCRIPTION:_** :sunflower:
+## :sunflower: **_PROGRAM DESCRIPTION:_** :sunflower: :honeybee:
 
 :cherry_blossom: **_BOTANICODE_** :cherry_blossom: is a Python program that displays flora growth of different plant types including; <ins>Flower</ins>, <ins>Tree</ins>, <ins>Herbs</ins>, <ins>Poaceae</ins>, and <ins>Vines</ins>. The program showcases the utilization of **object-oriented programming** (OOP) and demonstrates <ins>inheritance</ins>, <ins>encapsulation</ins>, and <ins>polymorphism</ins> in **_Python_**.
 
