@@ -3,9 +3,9 @@
 ## :four_leaf_clover: **_Members:_** :four_leaf_clover:
 
 1. Andal, Juan Miguel P.
-1. Banaag, Ace Angela P.
-1. Boo, Vianci Mariz G.
-1. Oreste, Elijah Emmanuel O.
+2. Banaag, Ace Angela P.
+3. Boo, Vianci Mariz G.
+4. Oreste, Elijah Emmanuel O.
 
 ## :sunflower: **_PROGRAM DESCRIPTION:_** :sunflower: :honeybee:
 
