@@ -13,7 +13,11 @@
 
 ## :hibiscus:**_HOW TO USE:_**:hibiscus:
 
-1. Run the .py file into a Terminal
+1.) Install Git<br>
+2.) Clone the repo<br>
+3.) Navigate to the code folder<br>
+4.) Make sure Python is installed<br>
+5.) Run the Python file<br>
 
 ## :tulip: **_ACKNOWLEDGEMENT:_** :tulip:
 Dear Professor Jigs,
