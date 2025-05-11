@@ -18,7 +18,7 @@
 ## :tulip: **_ACKNOWLEDGEMENT:_** :tulip:
 Dear Professor Jigs,
 
-On behalf of our—Andal, Banaag, Boo, and Oreste—we want to express our sincere gratitude for your guidance throughout our programming course. Your expertise, patience, and engaging teaching style made even the most challenging topics understandable and enjoyable.
+On behalf of our group—Andal, Banaag, Boo, and Oreste—we want to express our sincere gratitude for your guidance throughout our programming course. Your expertise, patience, and engaging teaching style made even the most challenging topics understandable and enjoyable.
 
 We especially appreciate your hands-on approach to projects,, your availability for questions, and the real-world applications you shared to us. Your dedication has not only strengthened our programming skills but also motivated us to keep learning.
 
